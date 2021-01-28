@@ -24,12 +24,12 @@
 [Question 5](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%201/Question5.java) Find the highest mark and average mark secured by him in "s" number of subjects.
 
 ## [WEEK 2]()<span id="w2"></span>
-[Question 1]() call the method print() of class Student first and then call print() method of class School.
+[Question 1](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question1.java) call the method print() of class Student first and then call print() method of class School.
 
-[Question 2]() call the method  print() of class given class Printer to print the following.
+[Question 2](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question2.java) call the method  print() of class given class Printer to print the following.
 
-[Question 3]() call print() method of class Question by creating a method named ‘studentMethod()’.
+[Question 3](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question3.java) call print() method of class Question by creating a method named ‘studentMethod()’.
 
-[Question 4]() call default constructor first and then any other constructor in the class Answer.
+[Question 4](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question4.java) call default constructor first and then any other constructor in the class Answer.
 
-[Question 5]() debug the program which is intended to print 'NPTEL JAVA'.
+[Question 5](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question5.java) debug the program which is intended to print 'NPTEL JAVA'.
