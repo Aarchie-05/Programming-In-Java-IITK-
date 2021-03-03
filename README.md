@@ -11,25 +11,3 @@
 <a href="#w10">`Week 10`</a>
 <a href="#w11">`Week 11`</a>
 <a href="#w12">`Week 12`</a>
-
-## [WEEK 1]()<span id="w1"></span>
-[Question 1](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%201/Question1.java) To find the perimeter and area of a circle given a value of radius.
-
-[Question 2](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%201/Question2.java) To find the largest among three numbers x,y, and z.
-
-[Question 3](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%201/Question3.java) Calculate sum of  all the numbers divisible by 3 from 0 to n.
-
-[Question 4](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%201/Question4.java) Check whether the number is an Armstrong number or not.
-
-[Question 5](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%201/Question5.java) Find the highest mark and average mark secured by him in "s" number of subjects.
-
-## [WEEK 2]()<span id="w2"></span>
-[Question 1](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question1.java) call the method print() of class Student first and then call print() method of class School.
-
-[Question 2](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question2.java) call the method  print() of class given class Printer to print the following.
-
-[Question 3](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question3.java) call print() method of class Question by creating a method named ‘studentMethod()’.
-
-[Question 4](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question4.java) call default constructor first and then any other constructor in the class Answer.
-
-[Question 5](https://github.com/Aarchie-05/Programming-In-Java---NPTEL-IITK-/blob/main/Week%202/Question5.java) debug the program which is intended to print 'NPTEL JAVA'.
