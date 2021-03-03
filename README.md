@@ -1,4 +1,4 @@
-# Programming-In-Java---NPTEL-IITK-
+# Programming-In-Java-IITK-
 <a href="#w1">`Week 1`</a>
 <a href="#w2">`Week 2`</a>
 <a href="#w3">`Week 3`</a>
