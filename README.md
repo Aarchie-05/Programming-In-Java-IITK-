@@ -1,4 +1,4 @@
-# Programming-In-Java-IITK-
+# :label: Programming-In-Java-IITK-
 <a href="https://github.com/Aarchie-05/Programming-In-Java-IITK-/tree/main/Week%201">`Week 1`</a>
 <a href="https://github.com/Aarchie-05/Programming-In-Java-IITK-/tree/main/Week%202">`Week 2`</a>
 <a href="https://github.com/Aarchie-05/Programming-In-Java-IITK-/tree/main/Week%203">`Week 3`</a>
