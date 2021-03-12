@@ -16,7 +16,7 @@
 <a href="https://github.com/Aarchie-05/Programming-In-Java-IITK-/tree/main/Problem%20solving%20through%20Programming%20In%20C/Week%203">`Week 3`</a>
 <a href="https://github.com/Aarchie-05/Programming-In-Java-IITK-/tree/main/Problem%20solving%20through%20Programming%20In%20C/Week%204">`Week 4`</a>
 <a href="#w3">`Week 5`</a>
-<a href="#w3">`Week 6`</a>
+<a href="https://github.com/Aarchie-05/Programming-In-Java-IITK-/tree/main/Problem%20solving%20through%20Programming%20In%20C/Week%206">`Week 6`</a>
 <a href="https://github.com/Aarchie-05/Programming-In-Java-IITK-/tree/main/Problem%20solving%20through%20Programming%20In%20C/Week%207">`Week 7`</a>
 <a href="#w3">`Week 8`</a>
 <a href="#w3">`Week 9`</a>
