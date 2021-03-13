@@ -8,3 +8,19 @@ int main()
    result = HCF(HCF(a, b), HCF(c,d));
    printf("The HCF is %d", result);
 }
+int HCF(int x, int y)
+{
+  while (x != y)
+    {
+        if (x > y)
+        {
+            return HCF(x - y, y);
+        }
+        else
+        {
+            return HCF(x, y - x);
+        }
+    }
+    return x;
+  
+}
